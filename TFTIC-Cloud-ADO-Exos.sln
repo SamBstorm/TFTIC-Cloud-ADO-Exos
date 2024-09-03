@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Exo01-DB", "Exo01-DB\Exo01-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo02-ADO", "Exo02-ADO\Exo02-ADO.csproj", "{341BA2B7-399B-4FBD-846B-100230DE58B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo03-ADO-DML", "Exo03-ADO-DML\Exo03-ADO-DML.csproj", "{0DA2E51C-6D77-410F-92DA-72E982EA7F98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{341BA2B7-399B-4FBD-846B-100230DE58B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{341BA2B7-399B-4FBD-846B-100230DE58B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{341BA2B7-399B-4FBD-846B-100230DE58B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA2E51C-6D77-410F-92DA-72E982EA7F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA2E51C-6D77-410F-92DA-72E982EA7F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA2E51C-6D77-410F-92DA-72E982EA7F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA2E51C-6D77-410F-92DA-72E982EA7F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
