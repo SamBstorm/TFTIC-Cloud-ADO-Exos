@@ -1,9 +1,9 @@
-INSERT INTO section VALUES (1010, 'Informatique de Gestion');
-INSERT INTO section VALUES (1020, 'Comptabilité');
-INSERT INTO section VALUES (1110, 'Tourisme');
-INSERT INTO section VALUES (1120, 'Dessin 3D');
-INSERT INTO section VALUES (1310, 'Administrateurs Système');
-INSERT INTO section VALUES (1320, 'Secrétariat');
+INSERT INTO section VALUES (1010, N'Informatique de Gestion');
+INSERT INTO section VALUES (1020, N'ComptabilitÃ©');
+INSERT INTO section VALUES (1110, N'Tourisme');
+INSERT INTO section VALUES (1120, N'Dessin 3D');
+INSERT INTO section VALUES (1310, N'Administrateurs SystÃ¨me');
+INSERT INTO section VALUES (1320, N'SecrÃ©tariat');
 
 Set Identity_insert Student on;
 INSERT INTO student (ID, FirstName, LastName, BirthDate, SectionID, YearResult) VALUES

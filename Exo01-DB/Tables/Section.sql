@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Section]
 (
 	[ID] INT NOT NULL PRIMARY KEY, 
-    [SectionName] VARCHAR(50) NOT NULL
+    [SectionName] NVARCHAR(50) NOT NULL
 )
