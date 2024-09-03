@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo02-ADO", "Exo02-ADO\Exo0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo03-ADO-DML", "Exo03-ADO-DML\Exo03-ADO-DML.csproj", "{0DA2E51C-6D77-410F-92DA-72E982EA7F98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo04-ADO-Parameters", "Exo04-ADO-Parameters\Exo04-ADO-Parameters.csproj", "{808F1889-F67E-4E29-B944-07617140E0F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{0DA2E51C-6D77-410F-92DA-72E982EA7F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA2E51C-6D77-410F-92DA-72E982EA7F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA2E51C-6D77-410F-92DA-72E982EA7F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808F1889-F67E-4E29-B944-07617140E0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808F1889-F67E-4E29-B944-07617140E0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808F1889-F67E-4E29-B944-07617140E0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808F1889-F67E-4E29-B944-07617140E0F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
